@@ -31,7 +31,7 @@ const Footer = () => {
                 <i class="uil uil-envelope"></i>
             </a>
 
-            <a href="https://github.com/farhanoo7" className="home_social-icon" target='_blank'>
+            <a href="https://github.com/pharhan7" className="home_social-icon" target='_blank'>
                 <i class="uil uil-github"></i>
             </a>
             
