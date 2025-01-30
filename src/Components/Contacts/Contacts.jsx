@@ -11,7 +11,7 @@ const Contacts = () => {
     const sendEmail = (e) => {
         e.preventDefault();
 
-        emailjs.sendForm('service_8hluzod', 'template_cufl3ni', form.current, 'H9N1v5ulc_xFNkQdx')
+        emailjs.sendForm('service_gdg107q', 'template_6tjvyuk', form.current, 'KcnOM04_ZBj8bp1tz')
         
         e.target.reset();
     };
@@ -43,7 +43,7 @@ const Contacts = () => {
                         <span className="contact__card-data">+91 9310235717</span>
 
                         <a href="https://wa.me/919310235717?text=Hello%20Farhan%20%E2%98%BA%EF%B8%8F" className="contact__button">
-                            Ping me {" "}<i className="bx bx-right-arrow-alt contact__button-icon"></i>
+                            text me {" "}<i className="bx bx-right-arrow-alt contact__button-icon"></i>
                         </a>
                     </div>
 
